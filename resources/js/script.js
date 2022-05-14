@@ -58,5 +58,5 @@ console.log(joke);
 /*
 README doc: Title, Description, Features, How to use, Technologies, Collaborators, License
 Find database of non-sensical jokes and words for N/V/A
-Support symbols attached to NVAs using regex
+Support symbols attached to NVAs using regex, %/&/$
 */
